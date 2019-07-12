@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-在这里尝试一下超链接 [引言](http://github.com/Triwooder/triwooder.github.io/introduction.md)
+在这里尝试一下超链接 [引言](https://github.com/Triwooder/triwooder.github.io/blob/master/introduction.md)
 
 ### Jekyll Themes
 
