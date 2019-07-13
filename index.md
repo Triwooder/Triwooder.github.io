@@ -1,39 +1,12 @@
-## Welcome to GitHub Pages
+# 引言 Introduction
 
-You can use the [editor on GitHub](https://github.com/Triwooder/Triwooder.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 写在前面 Preface
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+怠惰久了，再想回到积极向上的状态就难了，需要付出更多的努力。希望能够通过一段时间的努力，重新回到大一时的那个我。——2019.7.13
 
-### Markdown
+## 内容简介 Abstract
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这套笔记系统包括我的英语学习记录、毕设相关内容学习记录、一些相关数学的学习记录、以及有可能包括的考研复习笔记。
 
-```markdown
-Syntax highlighted code block
+## 目录 Contents
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-在这里尝试一下超链接 [引言](https://github.com/Triwooder/triwooder.github.io/blob/master/introduction.md)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Triwooder/Triwooder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
