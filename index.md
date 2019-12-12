@@ -2,5 +2,5 @@
 
 ## 数学 Math
 
-- [微积分 Calculus](./math/calculus/index)
+- [微积分 Calculus](./math/calculus)
 
